@@ -1,0 +1,31 @@
+.nav-link {
+    color: black;
+
+}
+
+.navbar-brand {
+
+    color: black;
+
+}
+
+#collapse1 {
+    overflow-y: scroll;
+    height: 200px;
+}
+
+footer {
+    text-align: center;
+    background-color: #333;
+    /* Optional background color for the footer */
+    color: #fff;
+    /* Optional text color for the footer */
+    padding: 10px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+.head {
+    padding-bottom: 15px;
+}
